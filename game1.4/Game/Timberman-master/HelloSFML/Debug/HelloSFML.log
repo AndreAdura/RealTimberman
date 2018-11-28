@@ -1,0 +1,16 @@
+﻿  HelloSFML.cpp
+c:\users\andre.adura\desktop\timberman-master\hellosfml\hellosfml.cpp(79): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\andre.adura\desktop\timberman-master\hellosfml\hellosfml.cpp(80): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\andre.adura\desktop\timberman-master\hellosfml\hellosfml.cpp(81): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\andre.adura\desktop\timberman-master\hellosfml\hellosfml.cpp(305): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\andre.adura\desktop\timberman-master\hellosfml\hellosfml.cpp(341): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\andre.adura\desktop\timberman-master\hellosfml\hellosfml.cpp(417): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\andre.adura\desktop\timberman-master\hellosfml\hellosfml.cpp(421): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\andre.adura\desktop\timberman-master\hellosfml\hellosfml.cpp(450): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\andre.adura\desktop\timberman-master\hellosfml\hellosfml.cpp(454): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\andre.adura\desktop\timberman-master\hellosfml\hellosfml.cpp(481): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\andre.adura\desktop\timberman-master\hellosfml\hellosfml.cpp(485): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\andre.adura\desktop\timberman-master\hellosfml\hellosfml.cpp(512): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\andre.adura\desktop\timberman-master\hellosfml\hellosfml.cpp(516): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\andre.adura\desktop\timberman-master\hellosfml\hellosfml.cpp(547): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  HelloSFML.vcxproj -> C:\Users\Andre.Adura\Desktop\Timberman-master\Debug\HelloSFML.exe
